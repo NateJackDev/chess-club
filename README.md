@@ -4,7 +4,7 @@
 # :date: Place & Time
 `Friday` during `lunch` in `Mr.Hanson's` room(`H112`)
 
-# New Policy
+# New Changes
 1. Integration of [__chess.com__](www.chess.com)
 2. __Beginner's__ course
 3. Frequent __Tournaments__
